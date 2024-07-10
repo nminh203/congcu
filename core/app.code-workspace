@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "C:/Users/linht/OneDrive/Máy tính/---------------------------"
+		},
+		{
+			"path": "C:/Users/linht/OneDrive/Máy tính/app/app"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "app"
+	}
+}
